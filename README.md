@@ -8,15 +8,8 @@ The goal of this repository is to provide:
 - Practical and industry-oriented content
 - Reusable materials for self-study
 
-<p style="display:flex; align-items:center; gap:10px; 
-          background:#fff4e5; padding:8px 12px; 
-          border-left:4px solid #ffa500; 
-          border-radius:6px;">
-  <img src="https://img.shields.io/badge/status-updating-blue" alt="status">
-  <span style="color:#cc7000; font-weight:600;">
-    More slides, examples, and projects will be added in future updates. Stay tuned!
-  </span>
-</p>
+| ![status](https://img.shields.io/badge/status-updating-blue) | 🚀 **More slides, examples, and projects will be added in future updates. Stay tuned!** |
+| ------------------------------------------------------------ | --------------------------------------------------------------------------------------- |
 
 ## Table of Contents
 
