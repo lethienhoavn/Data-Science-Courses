@@ -279,21 +279,21 @@ Description: _[Link](https://docs.google.com/document/d/1RoIq-vyM2Vo9jNc38i9W0mQ
     <td style="border:1px solid #ccc; padding:8px;">11/08/2025</td>
     <td style="border:1px solid #ccc; padding:8px;">Data Science & AI Trend</td>
     <td style="border:1px solid #ccc; padding:8px;">
-      <a href="https://docs.google.com/presentation/d/1lhYmVG47Bnc0716Kq8_GJ7MjEjcgFaFRdPSnp0aAu1E/edit?usp=sharing">Slides</a>
+      <a href="https://docs.google.com/presentation/d/1lhYmVG47Bnc0716Kq8_GJ7MjEjcgFaFRdPSnp0aAu1E/edit?usp=sharing">Webinar Slides</a>
     </td>
   </tr>
   <tr>
     <td style="border:1px solid #ccc; padding:8px;">01/12/2025</td>
     <td style="border:1px solid #ccc; padding:8px;">Rethinking Personalization in Fintech/Banking with AI Agents</td>
     <td style="border:1px solid #ccc; padding:8px;">
-      <a href="https://docs.google.com/presentation/d/1zSEzNx1m6q3O3283cbTyCWIPGZF7376KuM029gCnXsM/edit?usp=sharing">Slides</a>
+      <a href="https://docs.google.com/presentation/d/1zSEzNx1m6q3O3283cbTyCWIPGZF7376KuM029gCnXsM/edit?usp=sharing">Webinar Slides</a>
     </td>
   </tr>
   <tr>
     <td style="border:1px solid #ccc; padding:8px;">12/12/2025</td>
     <td style="border:1px solid #ccc; padding:8px;">Recommendation Systems, From Foundation to Frontiers</td>
     <td style="border:1px solid #ccc; padding:8px;">
-      <a href="https://docs.google.com/presentation/d/1BTLrQEBzN7oRa8AKEatL3h-H8hQdILxitC5D1jhLuUk/edit?usp=sharing">Slides</a>
+      <a href="https://docs.google.com/presentation/d/1BTLrQEBzN7oRa8AKEatL3h-H8hQdILxitC5D1jhLuUk/edit?usp=sharing">Webniar Slides</a>
     </td>
   </tr>
   <tr>
