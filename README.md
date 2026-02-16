@@ -8,8 +8,9 @@ The goal of this repository is to provide:
 - Practical and industry-oriented content
 - Reusable materials for self-study
 
-| ![status](https://img.shields.io/badge/status-updating-blue) | 🚀 **More slides, examples, and projects will be added in future updates. Stay tuned!** |
-| ------------------------------------------------------------ | --------------------------------------------------------------------------------------- |
+![status](https://img.shields.io/badge/status-updating-blue)
+
+> 🚀 **More slides, examples, and projects will be added in future updates. Stay tuned!**
 
 ## Table of Contents
 
