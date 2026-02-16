@@ -49,13 +49,13 @@ Below is the roadmap I designed for this course:
       <td style="border:1px solid #ccc; padding:8px;">1</td>
       <td style="border:1px solid #ccc; padding:8px;">Python for Data Scientist</td>
       <td style="border:1px solid #ccc; padding:8px;">
-        Pip vs. Conda vs. Uv<br>
-        Python List / NumPy / Pandas / Polars / PySpark<br>
-        Common pitfalls in data structures, vectorization & memory optimization<br>
-        Python vs. Cython vs. Rust<br>
-        Thread vs. process, concurrency vs. parallelism<br>
-        Reference counting, race condition, GIL & multithreading<br>
-        Multiprocessing, AsyncIO
+        - Pip vs. Conda vs. Uv<br>
+        - Python List / NumPy / Pandas / Polars / PySpark<br>
+        - Common pitfalls in data structures, vectorization & memory optimization<br>
+        - Python vs. Cython vs. Rust<br>
+        - Thread vs. process, concurrency vs. parallelism<br>
+        - Reference counting, race condition, GIL & multithreading<br>
+        - Multiprocessing, AsyncIO
       </td>
       <td style="border:1px solid #ccc; padding:8px;">
         <a href="https://docs.google.com/presentation/d/1ZE4uo6iQAWa8P7ENdv4kjfBQn-rJ2I_7/edit?usp=sharing&ouid=108196031463416657339&rtpof=true&sd=true" target="_blank">Slides</a>
@@ -65,15 +65,15 @@ Below is the roadmap I designed for this course:
       <td style="border:1px solid #ccc; padding:8px;">2</td>
       <td style="border:1px solid #ccc; padding:8px;">Fundamentals of Database Systems</td>
       <td style="border:1px solid #ccc; padding:8px;">
-        SQL vs. NoSQL, Row-wise & Column-wise DB<br>
-        OLTP vs. OLAP<br>
-        ACID & BASE principles<br>
-        Data Warehouse, Data Mart<br>
-        Dimensional Modeling, Facts, Dimensions, Slowly Changing Dimensions (SCD)<br>
-        Normalization vs. Denormalization, Star Schema, Snowflake Schema<br>
-        Extract – Transform – Load (ETL), ELT<br>
-        Data Lake, Lakehouse<br>
-        Distributed Databases (HBase, Cassandra), CAP theorem
+        - SQL vs. NoSQL, Row-wise & Column-wise DB<br>
+        - OLTP vs. OLAP<br>
+        - ACID & BASE principles<br>
+        - Data Warehouse, Data Mart<br>
+        - Dimensional Modeling, Facts, Dimensions, Slowly Changing Dimensions (SCD)<br>
+        - Normalization vs. Denormalization, Star Schema, Snowflake Schema<br>
+        - Extract – Transform – Load (ETL), ELT<br>
+        - Data Lake, Lakehouse<br>
+        - Distributed Databases (HBase, Cassandra), CAP theorem
       </td>
       <td style="border:1px solid #ccc; padding:8px;">
         <a href="https://docs.google.com/presentation/d/12okO9_qU5THhITXxZHccKpwi512tOQ_8/edit?usp=sharing&ouid=108196031463416657339&rtpof=true&sd=true" target="_blank">Slides</a>
@@ -83,14 +83,14 @@ Below is the roadmap I designed for this course:
       <td style="border:1px solid #ccc; padding:8px;">3</td>
       <td style="border:1px solid #ccc; padding:8px;">Fundamentals of Backend Engineering</td>
       <td style="border:1px solid #ccc; padding:8px;">
-        Web API fundamentals, URL with path & query parameters<br>
-        OSI model (7 layers), TCP & UDP, how HTTP & HTTPS work<br>
-        RESTful API, building APIs with Flask & FastAPI<br>
-        WSGI & ASGI (async/await), Werkzeug, Gunicorn, Uvicorn<br>
-        Encoding (Base64), Encryption (AES, RSA), Hashing (SHA256, bcrypt)<br>
-        API security: Authentication & Authorization (API Key, Basic Auth, JWT, OAuth2)<br>
-        RPC (Thrift, gRPC): connection pooling, multiplexing, streaming<br>
-        WebSocket, Webhook, Celery task
+        - Web API fundamentals, URL with path & query parameters<br>
+        - OSI model (7 layers), TCP & UDP, how HTTP & HTTPS work<br>
+        - RESTful API, building APIs with Flask & FastAPI<br>
+        - WSGI & ASGI (async/await), Werkzeug, Gunicorn, Uvicorn<br>
+        - Encoding (Base64), Encryption (AES, RSA), Hashing (SHA256, bcrypt)<br>
+        - API security: Authentication & Authorization (API Key, Basic Auth, JWT, OAuth2)<br>
+        - RPC (Thrift, gRPC): connection pooling, multiplexing, streaming<br>
+        - WebSocket, Webhook, Celery task
       </td>
       <td style="border:1px solid #ccc; padding:8px;">
         <a href="https://docs.google.com/presentation/d/1x_EN56luuGhzvC2ssP_94Qn0JFimMmZe/edit?usp=sharing&ouid=108196031463416657339&rtpof=true&sd=true" target="_blank">Slides</a>
@@ -100,14 +100,14 @@ Below is the roadmap I designed for this course:
       <td style="border:1px solid #ccc; padding:8px;">4</td>
       <td style="border:1px solid #ccc; padding:8px;">Fundamentals of DevOps</td>
       <td style="border:1px solid #ccc; padding:8px;">
-        DevOps, software design<br>
-        Linux, Bash scripting<br>
-        Networking fundamentals<br>
-        Source control: Git, GitLab<br>
-        Containers, Docker<br>
-        Container orchestration: Kubernetes (K8s), Rancher<br>
-        CI/CD: GitLab CI, Jenkins<br>
-        Observability & monitoring: ELK, Prometheus, Grafana
+        - DevOps, software design<br>
+        - Linux, Bash scripting<br>
+        - Networking fundamentals<br>
+        - Source control: Git, GitLab<br>
+        - Containers, Docker<br>
+        - Container orchestration: Kubernetes (K8s), Rancher<br>
+        - CI/CD: GitLab CI, Jenkins<br>
+        - Observability & monitoring: ELK, Prometheus, Grafana
       </td>
       <td style="border:1px solid #ccc; padding:8px;">
         <a href="https://docs.google.com/presentation/d/1HtM5VShwdKbRr9aQdV3depJrDqeuiiNLesZFlV3UvUw/edit?usp=sharing" target="_blank">Slides</a>
