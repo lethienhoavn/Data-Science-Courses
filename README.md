@@ -255,7 +255,7 @@ Description: _[Link](https://docs.google.com/document/d/1RoIq-vyM2Vo9jNc38i9W0mQ
     <td style="border:1px solid #ccc; padding:8px;">7</td>
     <td style="border:1px solid #ccc; padding:8px;">Multi-Armed Bandit / Contextual Bandit / Clustered Bandit</td>
     <td style="border:1px solid #ccc; padding:8px;">
-      <a href="https://docs.google.com/presentation/d/18mALojnJDij8ivYLskFlIrvdJ8XlefeAuHrygFeObkw/edit?usp=sharing">Slides</a>
+      <a href="https://docs.google.com/presentation/d/1ROd0tmve4Q3R2EHwJMxfXm88MHjLY3FpPKxBZa355a8/edit?usp=sharing">Slides</a>
     </td>
   </tr>
   <tr>
