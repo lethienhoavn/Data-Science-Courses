@@ -267,6 +267,36 @@ Description: _[Link](https://docs.google.com/document/d/1RoIq-vyM2Vo9jNc38i9W0mQ
   </tr>
 </table>
 
+## Project
+
+Requirement: _[Link](https://docs.google.com/document/d/1i36AF3xh5ZTinqJhtfbWUBeCoUAlNX5rhQaLua0VkfY/edit?usp=sharing)_
+Projects: _[Link](https://docs.google.com/document/d/1lIGbh8bfDMVwXWqbqL3abmT1ZdCG1bJmKc4MLDO70tY/edit?usp=sharing)_
+
+## Top 3 Student Projects
+
+<table style="width:100%; border-collapse: collapse;">
+  <tr>
+    <th style="border:1px solid #ccc; padding:8px;">Num</th>
+    <th style="border:1px solid #ccc; padding:8px;">GitHub Student</th>
+    <th style="border:1px solid #ccc; padding:8px;">GitHub Repository</th>
+  </tr>
+  <tr>
+    <td style="border:1px solid #ccc; padding:8px;">1</td>
+    <td style="border:1px solid #ccc; padding:8px;"><a href="https://github.com/tungh1850">tungh1850</a></td>
+    <td style="border:1px solid #ccc; padding:8px;"><a href="https://github.com/tungh1850/credit_product_recommendation?authuser=0">Repo</a></td>
+  </tr>
+  <tr>
+    <td style="border:1px solid #ccc; padding:8px;">2</td>
+    <td style="border:1px solid #ccc; padding:8px;"><a href="https://github.com/passat05">passat05</a></td>
+    <td style="border:1px solid #ccc; padding:8px;"><a href="https://github.com/passat05/ecommerce-rec-system?authuser=0">Repo</a></td>
+  </tr>
+  <tr>
+    <td style="border:1px solid #ccc; padding:8px;">3</td>
+    <td style="border:1px solid #ccc; padding:8px;"><a href="https://github.com/DoBinh04">DoBinh04</a></td>
+    <td style="border:1px solid #ccc; padding:8px;"><a href="https://github.com/DoBinh04/Neural-Two-Stage-Recommender-System?authuser=0">Repo</a></td>
+  </tr>
+</table>
+
 ## Webinars & Public Talks
 
 <table style="width:100%; border-collapse: collapse;">
