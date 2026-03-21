@@ -16,9 +16,11 @@ The goal of this repository is to provide:
 
 - [Full Data Science Course (62 sessions)](#full-data-science-course-62-sessions)
 - [AI Models for Customer Growth & Retention Bootcamp (6 sessions)](#ai-models-for-customer-growth--retention-bootcamp-6-sessions)
-  - [Project](#project)
-  - [Top 5 Student Projects](#top-5-student-projects)
+  - [Project Customer Growth](#project-customer-growth)
+  - [Top 5 Student Projects Customer Growth](#top-5-student-projects-customer-growth)
 - [Recommendation Systems Bootcamp (8 sessions)](#recommendation-systems-bootcamp-8-sessions)
+  - [Project RecSys](#project-recsys)
+  - [Top 3 Student Projects RecSys](#top-3-student-projects-recsys)   
 - [Webinars & Public Talks](#webinars--public-talks)
 
 ## Full Data Science Course (62 sessions)
@@ -157,7 +159,7 @@ Below is the roadmap I designed for this course:
   </tr>
 </table>
 
-## Project
+## Project Customer Growth
 
 Description: _[Link](https://docs.google.com/document/d/1RoIq-vyM2Vo9jNc38i9W0mQyrPrlPLsYonQQbYnEZjU/edit?usp=sharing)_
 
@@ -166,7 +168,7 @@ Description: _[Link](https://docs.google.com/document/d/1RoIq-vyM2Vo9jNc38i9W0mQ
   <img src="images/project_customer_growth_2.jpg" alt="Project Customer Growth 2" width="558">
 </p>
 
-## Top 5 Student Projects
+## Top 5 Student Projects Customer Growth
 
 <table style="width:100%; border-collapse: collapse;">
   <tr>
@@ -267,13 +269,13 @@ Description: _[Link](https://docs.google.com/document/d/1RoIq-vyM2Vo9jNc38i9W0mQ
   </tr>
 </table>
 
-## Project
+## Project RecSys
 
 Requirement: _[Link](https://docs.google.com/document/d/1i36AF3xh5ZTinqJhtfbWUBeCoUAlNX5rhQaLua0VkfY/edit?usp=sharing)_
 
 Projects: _[Link](https://docs.google.com/document/d/1lIGbh8bfDMVwXWqbqL3abmT1ZdCG1bJmKc4MLDO70tY/edit?usp=sharing)_
 
-## Top 3 Student Projects
+## Top 3 Student Projects RecSys
 
 <table style="width:100%; border-collapse: collapse;">
   <tr>
