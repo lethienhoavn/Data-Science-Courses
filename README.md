@@ -333,21 +333,21 @@ Projects: _[Link](https://docs.google.com/document/d/1lIGbh8bfDMVwXWqbqL3abmT1Zd
     <td style="border:1px solid #ccc; padding:8px;">25/12/2025</td>
     <td style="border:1px solid #ccc; padding:8px;">From Tools to Agents: The Business Explosion of the AI Economy</td>
     <td style="border:1px solid #ccc; padding:8px;">
-      <a href="https://www.linkedin.com/posts/h%C3%B2a-l%C3%AA-9a2795167_honored-to-be-invited-to-this-offline-seminar-activity-7408092101797847041-E6Gn?utm_source=share&utm_medium=member_desktop&rcm=ACoAACfOBEoBY0GB2D0E2tpi4wCRDaFiVhVUr_M">Offline at Vin University</a>
+      <a href="https://www.linkedin.com/posts/h%C3%B2a-l%C3%AA-9a2795167_honored-to-be-invited-to-this-offline-seminar-activity-7408092101797847041-E6Gn?utm_source=share&utm_medium=member_desktop&rcm=ACoAACfOBEoBY0GB2D0E2tpi4wCRDaFiVhVUr_M">Seminar at Vin University</a>
     </td>
   </tr>
   <tr>
     <td style="border:1px solid #ccc; padding:8px;">22/03/2026</td>
     <td style="border:1px solid #ccc; padding:8px;">Customer Journey Modeling</td>
     <td style="border:1px solid #ccc; padding:8px;">
-      <a href="https://www.facebook.com/share/p/1E8so7JGSH/">Webinar at JourneyX Data</a>
+      <a href="https://docs.google.com/presentation/d/1Wg1RujQXS_AM1yAR5X4FFugYFb5HF8ke/edit?usp=sharing&ouid=108196031463416657339&rtpof=true&sd=true">Webinar at JourneyX Data</a>
     </td>
   </tr>  
   <tr>
     <td style="border:1px solid #ccc; padding:8px;">04/2026</td>
     <td style="border:1px solid #ccc; padding:8px;">AI Agents for Banking</td>
     <td style="border:1px solid #ccc; padding:8px;">
-      <a href="">Offline at Foreign Trade University</a>
+      <a href="">Seminar at Foreign Trade University</a>
     </td>
   </tr>
 </table>
