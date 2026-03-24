@@ -275,6 +275,10 @@ Requirement: _[Link](https://docs.google.com/document/d/1i36AF3xh5ZTinqJhtfbWUBe
 
 Projects: _[Link](https://docs.google.com/document/d/1lIGbh8bfDMVwXWqbqL3abmT1ZdCG1bJmKc4MLDO70tY/edit?usp=sharing)_
 
+<p align="center">
+  <img src="images/recsys_final_project.jpg" alt="Project Customer Growth 1" width="500">
+</p>
+
 ## Top 3 Student Projects RecSys
 
 <table style="width:100%; border-collapse: collapse;">
