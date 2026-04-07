@@ -129,8 +129,8 @@ Below is the roadmap I designed for this course:
   </tr>
   <tr>
     <td style="border:1px solid #ccc; padding:8px;">1</td>
-    <td style="border:1px solid #ccc; padding:8px;">Customer Value Foundations: RFM & Customer Behavior Insights</td>
-    <td style="border:1px solid #ccc; padding:8px;"><a href="https://docs.google.com/presentation/d/1kSXKW8Sr9UUkM0JBUdjF5LHX-Q59ZgJFe_IekjYoVy0/edit?usp=sharing">Slides</a></td>
+    <td style="border:1px solid #ccc; padding:8px;">Customer Value Foundations: RFM & Customer Segmentation</td>
+    <td style="border:1px solid #ccc; padding:8px;"><a href="https://docs.google.com/presentation/d/1TlIfvMGQgreFK8IPmt0DpYgmg9h_lWGv_UB8SFxe604/edit?usp=sharing">Slides</a></td>
   </tr>
   <tr>
     <td style="border:1px solid #ccc; padding:8px;">2</td>
