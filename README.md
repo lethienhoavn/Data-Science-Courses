@@ -20,7 +20,8 @@ The goal of this repository is to provide:
   - [Top 5 Student Projects Customer Growth](#top-5-student-projects-customer-growth)
 - [Recommendation Systems Bootcamp (8 sessions)](#recommendation-systems-bootcamp-8-sessions)
   - [Project RecSys](#project-recsys)
-  - [Top 3 Student Projects RecSys](#top-3-student-projects-recsys)   
+  - [Top 3 Student Projects RecSys](#top-3-student-projects-recsys)
+- [Causal Inference and Uplift Modeling Bootcamp (8 sessions)](#causal-inference-and-uplift-modeling-bootcamp-8-sessions)
 - [Webinars & Public Talks](#webinars--public-talks)
 
 ## Full Data Science Course (62 sessions)
@@ -304,6 +305,56 @@ Projects: _[Link](https://docs.google.com/document/d/1lIGbh8bfDMVwXWqbqL3abmT1Zd
   </tr>
 </table>
 
+## Causal Inference and Uplift Modeling Bootcamp (8 sessions)
+
+<table style="width:100%; border-collapse: collapse;">
+  <tr>
+    <th style="border:1px solid #ccc; padding:8px;">Session</th>
+    <th style="border:1px solid #ccc; padding:8px;">Content</th>
+    <th style="border:1px solid #ccc; padding:8px;">Link</th>
+  </tr>
+  <tr>
+    <td style="border:1px solid #ccc; padding:8px;">1</td>
+    <td style="border:1px solid #ccc; padding:8px;">Foundations: Potential Outcomes & Causal Graphs</td>
+    <td style="border:1px solid #ccc; padding:8px;"><a href="#">Slides</a></td>
+  </tr>
+  <tr>
+    <td style="border:1px solid #ccc; padding:8px;">2</td>
+    <td style="border:1px solid #ccc; padding:8px;">Identification: From DAGs to Estimands</td>
+    <td style="border:1px solid #ccc; padding:8px;"><a href="#">Slides</a></td>
+  </tr>
+  <tr>
+    <td style="border:1px solid #ccc; padding:8px;">3</td>
+    <td style="border:1px solid #ccc; padding:8px;">Estimation: Modern Causal Estimators</td>
+    <td style="border:1px solid #ccc; padding:8px;"><a href="#">Slides</a></td>
+  </tr>
+  <tr>
+    <td style="border:1px solid #ccc; padding:8px;">4</td>
+    <td style="border:1px solid #ccc; padding:8px;">Heterogeneous Treatment Effects (CATE Foundations)</td>
+    <td style="border:1px solid #ccc; padding:8px;"><a href="#">Slides</a></td>
+  </tr>
+  <tr>
+    <td style="border:1px solid #ccc; padding:8px;">5</td>
+    <td style="border:1px solid #ccc; padding:8px;">From CATE to Uplift Modelinge</td>
+    <td style="border:1px solid #ccc; padding:8px;"><a href="#">Slides</a></td>
+  </tr>
+  <tr>
+    <td style="border:1px solid #ccc; padding:8px;">6</td>
+    <td style="border:1px solid #ccc; padding:8px;">Meta-Learners for Uplift</td>
+    <td style="border:1px solid #ccc; padding:8px;"><a href="#">Slides</a></td>
+  </tr>
+  <tr>
+    <td style="border:1px solid #ccc; padding:8px;">7</td>
+    <td style="border:1px solid #ccc; padding:8px;">Tree-based & Representation-based Uplift Models</td>
+    <td style="border:1px solid #ccc; padding:8px;"><a href="#">Slides</a></td>
+  </tr>
+  <tr>
+    <td style="border:1px solid #ccc; padding:8px;">8</td>
+    <td style="border:1px solid #ccc; padding:8px;">Evaluation of Uplift Models</td>
+    <td style="border:1px solid #ccc; padding:8px;"><a href="#">Slides</a></td>
+  </tr>
+</table>
+
 ## Webinars & Public Talks
 
 <table style="width:100%; border-collapse: collapse;">
@@ -346,12 +397,5 @@ Projects: _[Link](https://docs.google.com/document/d/1lIGbh8bfDMVwXWqbqL3abmT1Zd
     <td style="border:1px solid #ccc; padding:8px;">
       <a href="https://docs.google.com/presentation/d/1Wg1RujQXS_AM1yAR5X4FFugYFb5HF8ke/edit?usp=sharing&ouid=108196031463416657339&rtpof=true&sd=true">Webinar at JourneyX Data</a>
     </td>
-  </tr>  
-  <tr>
-    <td style="border:1px solid #ccc; padding:8px;">04/2026</td>
-    <td style="border:1px solid #ccc; padding:8px;">AI Agents for Banking</td>
-    <td style="border:1px solid #ccc; padding:8px;">
-      <a href="">Seminar at Foreign Trade University</a>
-    </td>
-  </tr>
+  </tr> 
 </table>
