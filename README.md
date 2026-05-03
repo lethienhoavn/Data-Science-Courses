@@ -316,7 +316,7 @@ Projects: _[Link](https://docs.google.com/document/d/1lIGbh8bfDMVwXWqbqL3abmT1Zd
   <tr>
     <td style="border:1px solid #ccc; padding:8px;">1</td>
     <td style="border:1px solid #ccc; padding:8px;">Foundations: Potential Outcomes & Causal Graphs</td>
-    <td style="border:1px solid #ccc; padding:8px;"><a href="#">Slides</a></td>
+    <td style="border:1px solid #ccc; padding:8px;"><a href="https://drive.google.com/file/d/1l-DFDiF8I3oZ7R1Dsq6d3nPY7Be89cZR/view?usp=sharing">Slides</a></td>
   </tr>
   <tr>
     <td style="border:1px solid #ccc; padding:8px;">2</td>
@@ -335,7 +335,7 @@ Projects: _[Link](https://docs.google.com/document/d/1lIGbh8bfDMVwXWqbqL3abmT1Zd
   </tr>
   <tr>
     <td style="border:1px solid #ccc; padding:8px;">5</td>
-    <td style="border:1px solid #ccc; padding:8px;">From CATE to Uplift Modelinge</td>
+    <td style="border:1px solid #ccc; padding:8px;">From CATE to Uplift Modeling</td>
     <td style="border:1px solid #ccc; padding:8px;"><a href="#">Slides</a></td>
   </tr>
   <tr>
