@@ -321,7 +321,7 @@ Projects: _[Link](https://docs.google.com/document/d/1lIGbh8bfDMVwXWqbqL3abmT1Zd
   <tr>
     <td style="border:1px solid #ccc; padding:8px;">2</td>
     <td style="border:1px solid #ccc; padding:8px;">Identification: From DAGs to Estimands</td>
-    <td style="border:1px solid #ccc; padding:8px;"><a href="#">Slides</a></td>
+    <td style="border:1px solid #ccc; padding:8px;"><a href="https://drive.google.com/file/d/12vpLrCeRFe6G8ueEpp8xvjvtNhilxe4V/view?usp=sharing">Slides</a></td>
   </tr>
   <tr>
     <td style="border:1px solid #ccc; padding:8px;">3</td>
@@ -448,5 +448,5 @@ Projects: _[Link](https://docs.google.com/document/d/1lIGbh8bfDMVwXWqbqL3abmT1Zd
       </a>
     </td>
   </tr>  
-
+  
 </table>
