@@ -357,7 +357,7 @@ Projects: _[Link](https://docs.google.com/document/d/1lIGbh8bfDMVwXWqbqL3abmT1Zd
   <tr>
     <td style="border:1px solid #ccc; padding:8px;">3</td>
     <td style="border:1px solid #ccc; padding:8px;">Estimation: Modern Causal Estimators</td>
-    <td style="border:1px solid #ccc; padding:8px;"><a href="#">Slides</a></td>
+    <td style="border:1px solid #ccc; padding:8px;"><a href="https://drive.google.com/file/d/1rPl-XqExDImvBduMILSIXLAKsz5bFbGI/view?usp=sharing">Slides</a></td>
   </tr>
   <tr>
     <td style="border:1px solid #ccc; padding:8px;">4</td>
