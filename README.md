@@ -17,10 +17,12 @@ The goal of this repository is to provide:
 - [Full Data Science Course (62 sessions)](#full-data-science-course-62-sessions)
 - [AI Models for Customer Growth & Retention Bootcamp (6 sessions)](#ai-models-for-customer-growth--retention-bootcamp-6-sessions)
   - [Project Customer Growth](#project-customer-growth)
-  - [Top 5 Student Projects Customer Growth](#top-5-student-projects-customer-growth)
+    - [Top 5 Student Projects Customer Growth](#top-5-student-projects-customer-growth)
+  - [Project Churn Prevention System](#project-churn-prevention-system)
+    - [Top 2 Student Projects Churn Prevention](#top-2-student-projects-churn-prevention)
 - [Recommendation Systems Bootcamp (8 sessions)](#recommendation-systems-bootcamp-8-sessions)
   - [Project RecSys](#project-recsys)
-  - [Top 3 Student Projects RecSys](#top-3-student-projects-recsys)
+    - [Top 3 Student Projects RecSys](#top-3-student-projects-recsys)
 - [Causal Inference and Uplift Modeling Bootcamp (8 sessions)](#causal-inference-and-uplift-modeling-bootcamp-8-sessions)
 - [Webinars & Public Talks](#webinars--public-talks)
 
@@ -201,6 +203,35 @@ Description: _[Link](https://docs.google.com/document/d/1RoIq-vyM2Vo9jNc38i9W0mQ
     <td style="border:1px solid #ccc; padding:8px;">5</td>
     <td style="border:1px solid #ccc; padding:8px;"><a href="https://github.com/trangq">trangq</a></td>
     <td style="border:1px solid #ccc; padding:8px;"><a href="https://github.com/trangq/ai_for_customergrowth?authuser=0">Repo</a></td>
+  </tr>
+</table>
+
+## Project Churn Prevention System
+
+Description: _[Link](https://docs.google.com/document/d/1vePvVWq4RfdEvPTMO2HM1utFFtJUzUIxDALlCW3BNk0/edit?usp=sharing)_
+
+<p align="center">
+  <img src="images/churn-prevention-1.jpg" alt="Project Churn Prevention 1" width="500">
+  <img src="images/churn-prevention-2.jpg" alt="Project Churn Prevention 2" width="558">
+</p>
+
+## Top 2 Student Projects Churn Prevention
+
+<table style="width:100%; border-collapse: collapse;">
+  <tr>
+    <th style="border:1px solid #ccc; padding:8px;">Num</th>
+    <th style="border:1px solid #ccc; padding:8px;">GitHub Student</th>
+    <th style="border:1px solid #ccc; padding:8px;">GitHub Repository</th>
+  </tr>
+  <tr>
+    <td style="border:1px solid #ccc; padding:8px;">1</td>
+    <td style="border:1px solid #ccc; padding:8px;"><a href="https://github.com/PhamThinh31">PhamThinh31</a></td>
+    <td style="border:1px solid #ccc; padding:8px;"><a href="https://github.com/PhamThinh31/churn_prevention_system">Repo</a></td>
+  </tr>
+  <tr>
+    <td style="border:1px solid #ccc; padding:8px;">2</td>
+    <td style="border:1px solid #ccc; padding:8px;"><a href="https://github.com/hungthinh005">hungthinh005</a></td>
+    <td style="border:1px solid #ccc; padding:8px;"><a href="https://github.com/hungthinh005/customer_journey_project">Repo</a></td>
   </tr>
 </table>
 
