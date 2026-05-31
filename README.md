@@ -361,26 +361,21 @@ Projects: _[Link](https://docs.google.com/document/d/1lIGbh8bfDMVwXWqbqL3abmT1Zd
   </tr>
   <tr>
     <td style="border:1px solid #ccc; padding:8px;">4</td>
-    <td style="border:1px solid #ccc; padding:8px;">Heterogeneous Treatment Effects (CATE Foundations)</td>
-    <td style="border:1px solid #ccc; padding:8px;"><a href="#">Slides</a></td>
+    <td style="border:1px solid #ccc; padding:8px;">Heterogeneous Treatment Effects CATE and Uplift Modeling</td>
+    <td style="border:1px solid #ccc; padding:8px;"><a href="https://drive.google.com/file/d/1RX4L9HSJpogKp6xDhknmsoAoSbdEbz-8/view?usp=sharing">Slides</a></td>
   </tr>
   <tr>
     <td style="border:1px solid #ccc; padding:8px;">5</td>
-    <td style="border:1px solid #ccc; padding:8px;">From CATE to Uplift Modeling</td>
-    <td style="border:1px solid #ccc; padding:8px;"><a href="#">Slides</a></td>
-  </tr>
-  <tr>
-    <td style="border:1px solid #ccc; padding:8px;">6</td>
     <td style="border:1px solid #ccc; padding:8px;">Meta-Learners for Uplift</td>
     <td style="border:1px solid #ccc; padding:8px;"><a href="#">Slides</a></td>
   </tr>
   <tr>
-    <td style="border:1px solid #ccc; padding:8px;">7</td>
+    <td style="border:1px solid #ccc; padding:8px;">6</td>
     <td style="border:1px solid #ccc; padding:8px;">Tree-based & Representation-based Uplift Models</td>
     <td style="border:1px solid #ccc; padding:8px;"><a href="#">Slides</a></td>
   </tr>
   <tr>
-    <td style="border:1px solid #ccc; padding:8px;">8</td>
+    <td style="border:1px solid #ccc; padding:8px;">7</td>
     <td style="border:1px solid #ccc; padding:8px;">Evaluation of Uplift Models</td>
     <td style="border:1px solid #ccc; padding:8px;"><a href="#">Slides</a></td>
   </tr>
