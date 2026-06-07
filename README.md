@@ -366,8 +366,8 @@ Projects: _[Link](https://docs.google.com/document/d/1lIGbh8bfDMVwXWqbqL3abmT1Zd
   </tr>
   <tr>
     <td style="border:1px solid #ccc; padding:8px;">5</td>
-    <td style="border:1px solid #ccc; padding:8px;">Meta-Learners for Uplift</td>
-    <td style="border:1px solid #ccc; padding:8px;"><a href="#">Slides</a></td>
+    <td style="border:1px solid #ccc; padding:8px;">Class Transformation and Meta Learners for Uplift Modeling</td>
+    <td style="border:1px solid #ccc; padding:8px;"><a href="https://drive.google.com/file/d/1djO742jYuzCX15jwXuS1qABT-8bNh1Rs/view?usp=sharing">Slides</a></td>
   </tr>
   <tr>
     <td style="border:1px solid #ccc; padding:8px;">6</td>
