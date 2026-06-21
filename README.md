@@ -372,7 +372,7 @@ Projects: _[Link](https://docs.google.com/document/d/1lIGbh8bfDMVwXWqbqL3abmT1Zd
   <tr>
     <td style="border:1px solid #ccc; padding:8px;">6</td>
     <td style="border:1px solid #ccc; padding:8px;">Tree-based & Representation-based Uplift Models</td>
-    <td style="border:1px solid #ccc; padding:8px;"><a href="#">Slides</a></td>
+    <td style="border:1px solid #ccc; padding:8px;"><a href="https://drive.google.com/file/d/1kyx5_ES3hLpU3US1XGm5pgKTuJiZeTIl/view?usp=sharing">Slides</a></td>
   </tr>
   <tr>
     <td style="border:1px solid #ccc; padding:8px;">7</td>
