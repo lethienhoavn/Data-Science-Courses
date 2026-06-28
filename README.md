@@ -377,7 +377,7 @@ Projects: _[Link](https://docs.google.com/document/d/1lIGbh8bfDMVwXWqbqL3abmT1Zd
   <tr>
     <td style="border:1px solid #ccc; padding:8px;">7</td>
     <td style="border:1px solid #ccc; padding:8px;">Evaluation of Uplift Models</td>
-    <td style="border:1px solid #ccc; padding:8px;"><a href="#">Slides</a></td>
+    <td style="border:1px solid #ccc; padding:8px;"><a href="https://drive.google.com/file/d/1QYw2dZH0whi6J-GG4phXbARpgXJE-7TG/view?usp=sharing">Slides</a></td>
   </tr>
 </table>
 
