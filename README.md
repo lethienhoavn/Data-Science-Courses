@@ -508,7 +508,7 @@ Projects: _[Link](https://docs.google.com/document/d/1lIGbh8bfDMVwXWqbqL3abmT1Zd
 
   <tr>
     <td style="border:1px solid #ccc; padding:8px;">17/07/2026</td>
-    <td style="border:1px solid #ccc; padding:8px;">Customer Journey for FnB</td>
+    <td style="border:1px solid #ccc; padding:8px;">A Customer Journey Proposal for Food & Beverage Corps</td>
     <td style="border:1px solid #ccc; padding:8px;">   
     </td>
     <td style="border:1px solid #ccc; padding:8px;">
