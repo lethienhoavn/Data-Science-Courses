@@ -386,7 +386,7 @@ Projects: _[Link](https://docs.google.com/document/d/1lIGbh8bfDMVwXWqbqL3abmT1Zd
   </tr>  
 </table>
 
-## Webinars & Public Talks
+## Webinars & Data Competitions & Public Talks
 
 <table style="width:100%; border-collapse: collapse;">
   <tr>
@@ -405,6 +405,19 @@ Projects: _[Link](https://docs.google.com/document/d/1lIGbh8bfDMVwXWqbqL3abmT1Zd
     <td style="border:1px solid #ccc; padding:8px;">
       <a href="https://docs.google.com/presentation/d/1lhYmVG47Bnc0716Kq8_GJ7MjEjcgFaFRdPSnp0aAu1E/edit?usp=sharing">
         Webinar at Cole.vn
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td style="border:1px solid #ccc; padding:8px;">10/11/2025</td>
+    <td style="border:1px solid #ccc; padding:8px;">Digital Transformation Festival - Pharus 2025</td>
+    <td style="border:1px solid #ccc; padding:8px;">
+      <img src="images/pharus-2025.jpg" alt="Slide Preview" width="220">
+    </td>
+    <td style="border:1px solid #ccc; padding:8px;">
+      <a href="https://www.facebook.com/share/p/1YCayj1ywb/">
+        Judge for Data Competition at Finance Academy
       </a>
     </td>
   </tr>
@@ -468,7 +481,7 @@ Projects: _[Link](https://docs.google.com/document/d/1lIGbh8bfDMVwXWqbqL3abmT1Zd
   </tr>
 
   <tr>
-    <td style="border:1px solid #ccc; padding:8px;">05/2026</td>
+    <td style="border:1px solid #ccc; padding:8px;">15/05/2026</td>
     <td style="border:1px solid #ccc; padding:8px;">How AI is Reshaping the Future of Banking</td>
     <td style="border:1px solid #ccc; padding:8px;">
       <img src="images/ai-banking-ftu.png" alt="Slide Preview" width="220">
@@ -479,5 +492,18 @@ Projects: _[Link](https://docs.google.com/document/d/1lIGbh8bfDMVwXWqbqL3abmT1Zd
       </a>
     </td>
   </tr>  
+
+  <tr>
+    <td style="border:1px solid #ccc; padding:8px;">17/07/2026</td>
+    <td style="border:1px solid #ccc; padding:8px;">Customer Journey for FnB</td>
+    <td style="border:1px solid #ccc; padding:8px;">
+      <img src="" alt="Slide Preview" width="220">
+    </td>
+    <td style="border:1px solid #ccc; padding:8px;">
+      <a href="#">
+        Seminar at Pizza 4P's
+      </a>
+    </td>
+  </tr>    
   
 </table>
