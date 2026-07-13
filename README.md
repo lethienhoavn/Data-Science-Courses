@@ -484,7 +484,7 @@ Projects: _[Link](https://docs.google.com/document/d/1lIGbh8bfDMVwXWqbqL3abmT1Zd
     <td style="border:1px solid #ccc; padding:8px;">15/05/2026</td>
     <td style="border:1px solid #ccc; padding:8px;">How AI is Reshaping the Future of Banking</td>
     <td style="border:1px solid #ccc; padding:8px;">
-      <img src="images/ai-banking-ftu.png" alt="Slide Preview" width="220">
+      <img src="images/ftu2026.jpg" alt="Slide Preview" width="220">
     </td>
     <td style="border:1px solid #ccc; padding:8px;">
       <a href="https://docs.google.com/presentation/d/1OhGahHdXI4T5oc4Ku3WILleWgYtlXOcobjSIZbj0RUs/edit?usp=sharing">
