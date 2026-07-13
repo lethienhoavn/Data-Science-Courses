@@ -494,10 +494,23 @@ Projects: _[Link](https://docs.google.com/document/d/1lIGbh8bfDMVwXWqbqL3abmT1Zd
   </tr>  
 
   <tr>
+    <td style="border:1px solid #ccc; padding:8px;">23/05/2026</td>
+    <td style="border:1px solid #ccc; padding:8px;">Datathon 2026</td>
+    <td style="border:1px solid #ccc; padding:8px;">
+      <img src="images/datathon2026.jpg" alt="Slide Preview" width="220">
+    </td>
+    <td style="border:1px solid #ccc; padding:8px;">
+      <a href="https://www.facebook.com/share/p/1EUvasLyWQ/">
+        Judge for Datathon at VinUni
+      </a>
+    </td>
+  </tr>  
+
+  <tr>
     <td style="border:1px solid #ccc; padding:8px;">17/07/2026</td>
     <td style="border:1px solid #ccc; padding:8px;">Customer Journey for FnB</td>
     <td style="border:1px solid #ccc; padding:8px;">
-      <img src="" alt="Slide Preview" width="220">
+      
     </td>
     <td style="border:1px solid #ccc; padding:8px;">
       <a href="#">
